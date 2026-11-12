@@ -10,7 +10,7 @@ Public agencies publish detailed construction pricing, but it rarely reaches est
 
 ## Our thesis
 
-> An agent-assisted tool that retrieves comparable past bid items, adjusts them for location and site conditions, and presents them as editable price ranges can measurably reduce estimate error on public heavy civil projects.
+> We claim that an agent-assisted tool that retrieves comparable past bid items, adjusts them for location and site conditions, and presents them as editable price ranges, can measurably reduce estimate error on public heavy civil projects.
 
 We test this two ways:
 
