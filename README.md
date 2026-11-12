@@ -22,23 +22,6 @@ We test this two ways:
 - [Caltrans Contract Cost Data](https://sv08data.dot.ca.gov/): over 3 million item-level bid prices from 1993 to the present.
 - [Caltrans Bid Summary Results](https://ppmoe.dot.ca.gov/): per-contract descriptions, locations, engineer's estimates, every bidder's item prices, and listed subcontractors.
 
-## Demos
-
-| # | Demo | What it does |
-|---|------|--------------|
-| 1 | Historical Price Lookup | Enter an item code, quantity, and project details to get the most relevant historical prices. |
-| 2 | Map-Based Lookup | Pick a location to compare similar nearby past projects and their costs. |
-| 3 | Estimate Review | Flag items priced outside their expected historical ranges. |
-| 4 | Bid Builder | Describe a project to get a drafted bid item breakdown the estimator can edit. |
-
-Progress and findings for each demo are posted on the [live site](https://calchen11.github.io/info492-capstone/#experiments).
-
 ## Team
 
 Ethan Kawahara · Calvin Chen · Tony Wu · Kaige Cheng
-
----
-
-## About this repo
-
-A static HTML/CSS/JS site deployed with GitHub Pages. All page content lives in [`js/content.js`](js/content.js).
